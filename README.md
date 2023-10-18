@@ -15,3 +15,8 @@ apt update && apt upgrade
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/0xrishitripathi/avail-anywhere/main/avail-anywhere.sh)
 ```
+
+Here's a video tutorial to setup Avail Light Client on a Phone:
+
+https://github.com/0xrishitripathi/avail-anywhere/assets/131165109/a7509831-10cb-4935-9865-a05bf537181e
+
