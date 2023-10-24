@@ -1,5 +1,31 @@
 #!/bin/bash
 
+cat << 'EOF'
+                  _ _                                  _                    
+                 (_) |                                | |                   
+  __ ___   ____ _ _| |______ __ _ _ __  _   ___      _| |__   ___ _ __ ___  
+ / _` \ \ / / _` | | |______/ _` | '_ \| | | \ \ /\ \ / / '_\/ _ \ '__/ _ \ 
+| (_| |\ V / (_| | | |     | (_| | | | | |_| |\ V  V /| | | |  __/ | |  __/ 
+ \__,_| \_/ \__,_|_|_|      \__,_|_| |_|\__, | \_/\_/ |_| |_|\___|_|  \___| 
+                                         __/ |                              
+                                        |___/                               
+
+EOF
+
+echo -e "Where do you want to run an avail light node? \(ᵔᵕᵔ)/ \n1. Desktop\n2. Phone "
+read -p "Option: " OPT
+
+if [[ "$OPT" == "1" ]]; then
+    echo "Running on Desktop..."
+    curl -sL1 avail.sh | sh
+    exit 0
+elif [[ "$OPT" == "2" ]]; then
+    echo "Running on Phone..."
+else
+    echo "Invalid option. Exiting ..."
+    exit 1
+fi
+
 # Install git
 apt-get install -qq git -y
 
