@@ -12,7 +12,7 @@ cat << 'EOF'
 
 EOF
 
-echo -e "Where do you want to run an avail light node? \(ᵔᵕᵔ)/ \n1. Desktop\n2. Phone "
+echo -e "Where do you want to run your avail light node? \(ᵔᵕᵔ)/ \n1. Desktop\n2. Phone "
 read -p "Option: " OPT
 
 if [[ "$OPT" == "1" ]]; then
