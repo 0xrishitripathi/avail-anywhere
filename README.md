@@ -1,6 +1,6 @@
 ## Avail-Anywhere
 
-Follow these steps to Run a Avail Light Client on an Android Phone.
+Follow these steps to Run an Avail Light Client.
 
 
 1. Install [Termux](https://f-droid.org/repo/com.termux_117.apk).
