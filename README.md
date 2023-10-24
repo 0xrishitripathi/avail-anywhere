@@ -2,7 +2,7 @@
 
 Follow these steps to Run an Avail Light Client.
 
-'''bash
+```bash
                    _ _                                  _                   
                   (_) |                                | |                  
    __ ___   ____ _ _| |______ __ _ _ __  _   ___      _| |__   ___ _ __ ___ 
@@ -11,7 +11,7 @@ Follow these steps to Run an Avail Light Client.
   \__,_| \_/ \__,_|_|_|      \__,_|_| |_|\__, | \_/\_/ |_| |_|\___|_|  \___|
                                           __/ |                             
                                          |___/  
-'''
+```
                                          
 
 
