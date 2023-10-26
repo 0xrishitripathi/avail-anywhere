@@ -64,7 +64,7 @@ cd avail-light
 # Check if 'avail-light-linux-aarch64.tar.gz' already exists
 if [ ! -f "avail-light-linux-aarch64.tar.gz" ]; then
     # Download the avail-light Linux aarch64 binary
-    curl -LO https://github.com/availproject/avail-light/releases/download/v1.7.3-rc1/avail-light-linux-aarch64.tar.gz
+    curl -LO https://github.com/availproject/avail-light/releases/download/v1.7.3-rc2/avail-light-linux-aarch64.tar.gz
 fi
 
 # Check if 'avail-light-linux-aarch64' already exists
