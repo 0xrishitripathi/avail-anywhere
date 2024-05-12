@@ -1,6 +1,6 @@
 ## Avail-Anywhere
 
-Follow these steps to Run an Avail Light Node.
+Follow these steps to Run an Avail Light Client.
 
 ```bash
                    _ _                                  _                   
