@@ -16,7 +16,7 @@ Follow these steps to Run an Avail Light Client.
 
 
 
-1. Install [Termux](https://f-droid.org/repo/com.termux_117.apk).
+1. Install [Termux](https://f-droid.org/en/packages/com.termux/).
 
 
 2. Update Termux:
